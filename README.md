@@ -1101,6 +1101,7 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 - [Nuages](https://nuages.domainepublic.net/) - Collaborative meeting poll system, similar to doodle or rdvz. ([Source Code](http://git.domainepublic.net/?p=nuages.git;a=tree)) `GPL-3.0` `Python`
 - [PHPBack](http://www.phpback.org) - The open source feedback system. ([Demo](http://www.phpback.org/demo/), [Source Code](https://github.com/ivandiazwm/phpback/)) `GPL-3.0` `PHP`
 - [TellForm](https://tellform.com) - Beautiful online form and survey creator. ([Demo](https://tellform.com/examples), [Source Code](https://github.com/whitef0x0/tellform)) `MIT` `Nodejs`
+- [RaceDB (CrossMgr)](https://sites.google.com/site/crossmgrsoftware/) - A participant manager for the CrossMgr timing software, that can be used to manage a race using RFID-tags, regular bib-numbers, or both. Designed for cycling, but can be used for many types of mass or individual sports events timing. , [Source Code](https://github.com/esitarski/CrossMgr)) `MIT` `Python`
 
 ## Proxy
 
